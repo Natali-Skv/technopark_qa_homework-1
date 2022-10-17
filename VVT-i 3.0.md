@@ -22,9 +22,9 @@
 >
 > **Описание бага:** если итоговая стоимость < минимальной стоимости для бесплатной доставки данного ресторана, то при обновлении страницы, доставка становится бесплатной.   
 >   **До обновления**  
-> ![](https://github.com/Natali-Skv/technopark_qa_homework-1-/blob/VVT-i/screens/reload_page_before.png)   
->   **После обновления**  
 > ![](https://github.com/Natali-Skv/technopark_qa_homework-1-/blob/VVT-i/screens/reload_page.png)   
+>   **После обновления**  
+> ![](https://github.com/Natali-Skv/technopark_qa_homework-1-/blob/VVT-i/screens/reload_page_before.png)   
 > 
 > :red_square: если при пустой корзине пользователя вписать в адресную строку "https://tavide.xyz/ordering", то происходит редирект на страницу оформления заказа, где кнопка "заказать" неактивна, вместо корзины отображается надпись *"Чтобы сделать заказ, положите блюда в корзину"*  
 >    **Описание бага:** если корзина пользователя пустая и вписать в адресную строку "https://tavide.xyz/ordering", то происходит редирект на абсолютно пустую страницу.  
