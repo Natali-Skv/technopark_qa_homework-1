@@ -5,6 +5,11 @@
 * Браузер: **Google Chrome Version 105.0.5195.125 (Official Build) (64-bit)**
 * Расширение экрана **1920 x 1024**
 ---
+# Bug reports по результатам тестирования
+- [Платная доставка становится бесплатной](https://github.com/Natali-Skv/technopark_qa_homework-1/blob/main/report_1.md)
+- [Отображается пустая страница](https://github.com/Natali-Skv/technopark_qa_homework-1/blob/main/report_2.md)
+- [Навигация браузера, платная доставка становится бесплатной](https://github.com/Natali-Skv/technopark_qa_homework-1/blob/main/report_3.md)
+---
 # Тестирование страницы оформления заказа */ordering*
 ## **Навигация**  
 > :red_square: находясь на странице */ordering*, при нажатии :arrow_left: (кнопка навигации в браузере), происходит редирект на предыдущую страницу, посещенную пользователем.   
